@@ -21,6 +21,7 @@ input{
     background-color: rgb(130, 158, 130);
     border-radius: 5px;
 }
+
 /*
 margin top right bottom left
 margin 25px 50px 75px 100px
@@ -31,4 +32,9 @@ form{
     margin: auto;
     border: 2px solid black ;
     padding: 15px;
+}
+.g-recaptcha{
+    margin-top:16px;
+    display: flex;
+    justify-content: center;
 }
